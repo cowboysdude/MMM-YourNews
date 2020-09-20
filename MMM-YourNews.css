@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:600');
+.MMM-YourNews {
+	max-width: 95%;
+	min-height: 100px;
+	max-height: 100px;
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+
+.MMM-YourNews div {
+	color: #fff;
+	font-family: Muli, sans-serif;
+	padding: 4px;
+}
+
+.MMM-YourNews .container {
+	display: flex;
+}
+
+.MMM-YourNews .fixed {
+	width: 100px;
+	height: 100px;
+}
+
+.MMM-YourNews .flex-item {
+	flex-grow: 1;
+	font-size: 16px;
+	min-height: 5vh;
+	text-align: left;
+	line-height: 110%;
+	max-width: 690px;
+	padding: 0 5px 0 10px;
+	color: #BDDCFF;
+}
+
+.MMM-YourNews .image {
+	width: 90%;
+	height: 90%;
+	border-style: solid;
+	border-color: #92a8d1;
+}
+
+.MMM-YourNews .dateColor {
+	color: #FFA500;
+}

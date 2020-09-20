@@ -1,0 +1,23 @@
+{
+  "name": "mmm-yournews",
+  "version": "1.0.0",
+  "description": "This repository is maintained by Cowboysdude \r [This is the second version of this module for MagicMirror2]",
+  "main": "MMM-YourNews.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboysdude/MMM-YourNews.git"
+  },
+  "author": "Cowboysdude [John]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cowboysdude/MMM-YourNews/issues"
+  },
+  "homepage": "https://github.com/cowboysdude/MMM-YourNews#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {}
+}
