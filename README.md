@@ -20,7 +20,7 @@ This repository is maintained by Cowboysdude
 
 ## Config.js entry and options
        {
-	disabled: f,	
+	disabled: false,	
     module: 'MMM-YourNews',
 	position: 'bottom bar',
     config: {
