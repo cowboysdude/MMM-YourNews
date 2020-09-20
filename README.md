@@ -8,7 +8,7 @@ This repository is maintained by Cowboysdude
 
 ## Examples
 
-![](Capture.png) 
+![](Capture.PNG) 
 
 ## Your terminal installation instructions
 
