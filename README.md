@@ -1,5 +1,3 @@
-This repository is maintained by Cowboysdude 
-[This is the second version of this module for MagicMirror2]
 
 # MMM-YourNews
 
