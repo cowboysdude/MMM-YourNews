@@ -6,7 +6,7 @@
 
 ## Examples
 
-![](Capture.PNG) 
+![](Capture1.PNG) 
 
 ## Your terminal installation instructions
 
